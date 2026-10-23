@@ -1,4 +1,4 @@
-# Robotic-Exoskeleton-Project
+# Robotic Exoskeleton Project
 
 The main repository contains all related exoskeleton/robotic arm repos:
 
